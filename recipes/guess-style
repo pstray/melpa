@@ -1,0 +1,3 @@
+(guess-style
+ :fetcher github
+ :repo "nschum/guess-style")
